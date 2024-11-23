@@ -1,0 +1,10 @@
+body {
+    background-image: url('file:///C:/Users/vynya/Downloads/background.jpg');
+    background-size: cover;
+    background-size: 110%; 
+    background-position: center;
+    background-attachment: fixed; 
+}
+h1 {
+    color: blue; 
+}
